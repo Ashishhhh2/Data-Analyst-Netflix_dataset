@@ -5,7 +5,9 @@ This project explores a dataset of Netflix titles to uncover trends in content t
 The dataset contains 7,789 records with the following columns:
 
 Show_Id: Unique identifier for each title
+
 Category: Movie or TV Show
+
 Title: Name of the content
 Director, Cast: Key contributors
 Country: Country of origin
